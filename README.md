@@ -3,7 +3,7 @@ XMLDirectoryExporter
 
 A simple python shell with directory hierarchy exporting feature in a xml file.
 
-This is an university coursework. 
+This was for an university coursework I've made.
 It will not be maintained, it's just for sharing and education purposes.
 There is no explicit licence, if you need to use it contact me we could agree on a nice open-source licence.
 
