@@ -10,30 +10,43 @@ There is no explicit licence, if you need to use it contact me we could agree on
 Commands
 --------
 
-  help
+    help
+    
 Display the help
+
 >> help
 
 
-  cd
+    cd
+    
 Change current directory
+
 >> cd ..
+
 >> cd Python27
 
 
-  pwd
+    pwd
+  
 Show the path of the current directory
->> ls
+
+>> pwd
 
 
-  ls
+    ls
+    
 List the current directory
+
 >> ls
 
 
-  export
+    export
+    
 Export directories and files from current chosen directory as a xml file.
+
 >> export
+
 >> export my_filename
+
 
 
